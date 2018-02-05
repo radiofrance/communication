@@ -12,5 +12,10 @@
 
 > Il y a 5 ans nous avons commencé la migration de toute notre infrastructure numérique vers une architecture basée sur les microservices. Qu'avons-nous apris depuis ? Que ferions-nous différement si nous pouvions recomencer à zéro ?
 
-> Conférence et slides en anglais.
++ [APIDays 2018 - Hear-me-out : The callenging experience of opening audio media data](https://github.com/radiofrance/communication/blob/master/talks/2018-01-31-APIDays2018-PublicApi.pdf) (licence CC)
+
+> Radio France is in the process of opening an open API, allowing devs, startups and any other innovative actor to
+access our data and experiment new services. Open API access will be free and reserved to a non commercial use. This
+presentation given at API Days Paris (jan. 2018)  is meant to describe the vision and content of such an pioneering tool
+in the media sector, but also the challenges related to public radio data and organization.
 
