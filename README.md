@@ -4,7 +4,7 @@
 
 + [APIDays Paris 2018 (December Edition) - From CI to CD in a microservice architecture](https://github.com/radiofrance/communication/blob/master/talks/2018-12-12-APIDays2018bis-CI-to-CD.pdf) (licence CC)
 
-After explaining the context and the technologies we use at Radio France, this presentation will go through our path, from the first deployment of our microservice architecture, what’s the current status of our CI/CD processes, the challenges we face, and finally the next steps we want to achieve
+> After explaining the context and the technologies we use at Radio France, this presentation will go through our path, from the first deployment of our microservice architecture, what’s the current status of our CI/CD processes, the challenges we face, and finally the next steps we want to achieve
 
 + [APIDays 2018 - Microservices : what if we could do it all over again ?](https://github.com/radiofrance/communication/blob/master/talks/2018-01-30-APIDays2018-MicroServices.pdf) (licence CC)
 
